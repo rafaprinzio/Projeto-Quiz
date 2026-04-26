@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-claude-primary: #D97757;
+  --color-claude-bg: #F5F0E8;
+  --color-claude-text: #1A1A1A;
+  --color-claude-muted: #6B6B6B;
+  --color-claude-success: #16A34A;
+  --color-claude-error: #DC2626;
+  --shadow-card: 0 2px 12px rgba(0, 0, 0, 0.08);
+}
