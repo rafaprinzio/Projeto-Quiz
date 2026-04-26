@@ -27,7 +27,7 @@ export default function WelcomeScreen() {
 
         <div className="flex items-center justify-center gap-2 text-sm text-claude-muted">
           <Clock className="w-4 h-4" />
-          <span>~3 minutos</span>
+          <span>~3 minutos · 10 questões</span>
         </div>
 
         <Link
