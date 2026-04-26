@@ -34,7 +34,7 @@ export default function WelcomeScreen() {
           href="/quiz"
           className="inline-block w-full py-4 px-8 bg-claude-primary text-white font-bold text-lg rounded-[8px] hover:opacity-90 active:scale-95 transition-all shadow-card"
         >
-          Iniciar Quiz →
+          Começar Quiz →
         </Link>
 
         <p className="text-xs text-claude-muted">
